@@ -5,3 +5,5 @@ class Testing(take test):
 def hello
     print("Printing")
 
+def looking
+    print("Glasses")
